@@ -15,4 +15,4 @@ A collection of my projects for ALX-Udacity-Scholarship-Program
 
 ## Projects
 
-* Project 1: Explore medical appointments  dataset with Python
+* Project 1: Explore Medical Appointments  dataset with Python.
