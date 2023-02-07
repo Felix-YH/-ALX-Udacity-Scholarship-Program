@@ -39,4 +39,4 @@ A collection of my projects for ALX-Udacity-Scholarship-Program
 
 * Project 1: Explore Medical Appointments dataset with Python.
 * Project 2: Wrangle and Analyze Data
-* Ptoject 3: Communicate Data Findings
+* Project 3: Communicate Data Findings
