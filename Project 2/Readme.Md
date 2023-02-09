@@ -8,7 +8,7 @@ The goal of this project was to Wrangle WeRateDogs Twitter data to create intere
 
 In addition, as per project specificacion, only original tweets/ratings that have images should be used in the analysis (no retweets nor replies).
 
-This project was completed as part of Udacity's [Data Analyst Nanodegree]() certification.
+This project was completed as part of Udacity's [Data Analyst Nanodegree](https://confirm.udacity.com/XGJFXUUN) certification.
 
 ## Data Origin
 [We Rate Dogs](https://twitter.com/dog_rates) is a Twitter account with funny or interesting facts and pictures about dogs (mainly)...
